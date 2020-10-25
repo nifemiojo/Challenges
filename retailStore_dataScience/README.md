@@ -2,7 +2,7 @@
 
 ## (Answers in solution.py)
 
-Congratulations on making it to the first part of the Tenzo Interview process!
+Congratulations on making it to the first part of the Interview process!
 
 The base file for this exercise is in Python 3 -- if you wish to change to a language of
 your choice, that is completely fine. Just remember to add instructions for how to run your solution.

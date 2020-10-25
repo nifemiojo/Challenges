@@ -1,4 +1,6 @@
-# Tenzo Coding Challenge
+# Coding Challenge
+
+## (Answers in solution.py)
 
 Congratulations on making it to the first part of the Tenzo Interview process!
 
